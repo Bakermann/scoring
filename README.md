@@ -1,6 +1,6 @@
 # Scoring
 
-Scoring is a python project whose objective is to build a credit granting score for Renault group customers
+Scoring is a python project whose objective is to build a credit granting score for Renault group customers by comparing different machine learning models (logistic regression, random forrest, simple deep learning classification model).
 
 ## Data
 
